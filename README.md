@@ -1,16 +1,25 @@
-## Hi there 👋
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAxbzI5NnV1bndlOTNlcXBkb2FiMmVuYWQzNXd0aHFhYnZ5YTE5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MunViQ5feR29sMFVfa/giphy.gif" alt="banner image" width="100%">
 
-<!--
-**R-Mirija/R-Mirija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Mirija. 👋 
 
-Here are some ideas to get you started:
+### 🚀 Web & Mobile Developer | Building scalable & cross-platform solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A passionate developer juggling between mobile and web development to turn ideas into smooth, high-performing applications.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+*   **Mobile Development:** Flutter (Dart), Kotlin
+*   **Web Backend & Frontend:** PHP (Laravel), Python, C#, Java
+*   **Databases & Tools:** Git, GitHub, MySQL / PostgreSQL, Firebase, Supabase
+
+---
+
+⚡ *Fun fact: I write code that humans can read and machines can execute.* 
+
+### 🤝 Let's Connect!
+
+*   📧 **Email:** pro.mirija@gmail.com
+
+---
