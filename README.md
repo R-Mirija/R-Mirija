@@ -1,9 +1,9 @@
 <table border="0">
   <tr>
-    <td width="50%">
-      <h2>Hi there, I'm Mirija !</h1>
+    <td width="60%">
+      <h1>Hi there, I'm Mirija !</h1>
     </td>
-    <td width="50%" align="center">
+    <td width="40%" align="center">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAxbzI5NnV1bndlOTNlcXBkb2FiMmVuYWQzNXd0aHFhYnZ5YTE5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MunViQ5feR29sMFVfa/giphy.gif" 
            alt="banner image" 
            width="100%" />
