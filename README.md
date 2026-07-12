@@ -4,7 +4,7 @@
       <h1>Hi there, I'm Mirija !</h1>
     </td>
     <td width="40%" align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAxbzI5NnV1bndlOTNlcXBkb2FiMmVuYWQzNXd0aHFhYnZ5YTE5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MunViQ5feR29sMFVfa/giphy.gif" 
+      <img src="banner.png" 
            alt="banner image" 
            width="100%" />
     </td>
